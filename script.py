@@ -5,7 +5,6 @@ words = [line.rstrip('\n') for line in open('wordlist.txt')]
 
 prefixIt = 0
 suffixIt = 0
-bothIt = 0
 attachementIt = 0
 i = 0
 
@@ -14,8 +13,6 @@ for word in words:
 		prefixIt = i
 	elif word == "Suffixes:":
 		suffixIt = i
-	elif word == "Both:":
-		bothIt = i
 	elif word == "Attachement:":
 		attachementIt = i
 	i = i + 1
