@@ -13,9 +13,17 @@ post-
 re-
 mono 
 stereo 
+konkret 
+under
+hard 
+negative 
+sub
+init 
+red 
 
 Suffixes:
 delta
+beta
 phi
 plus
 clock
@@ -28,6 +36,14 @@ dub
 faktor
 ost
 nord
+negative
+alert
+zero
+one
+time
+blank
+phase
+light
 
 Attachement:
 recordings
@@ -35,3 +51,4 @@ tapes
 music
 electronics
 sounds
+journeys
